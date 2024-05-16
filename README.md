@@ -6,7 +6,7 @@
 * Course: CPSC-357-01
 * Assignment: Final Project
 
-* Files Submitted: 
+* Files Submitted: AddNewCollection.swift, AddNewItem.swift, Collection.swift, CollectionApp.swift, CollectionData.swift, CollectionDetail.swift, CollectionStore.swift, ContentView.swift, FavoritesView.swift, Item.swift, ItemDetail.swift, ProfileView.swift, README.md, StoreListView.swift, WishlistView.swift, data.json
 * Resources:
   * https://developer.apple.com/documentation/ 
   * https://marquettemessenger.com/features/2023/02/15/in-depth-collectible-craze/#:~:text=by%20Anika%20Talyan
