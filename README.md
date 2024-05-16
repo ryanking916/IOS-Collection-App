@@ -7,9 +7,12 @@
 * Assignment: Final Project
 
 * Files Submitted: AddNewCollection.swift, AddNewItem.swift, Collection.swift, CollectionApp.swift, CollectionData.swift, CollectionDetail.swift, CollectionStore.swift, ContentView.swift, FavoritesView.swift, Item.swift, ItemDetail.swift, ProfileView.swift, README.md, StoreListView.swift, WishlistView.swift, data.json
+
 * Resources:
   * https://developer.apple.com/documentation/ 
   * https://marquettemessenger.com/features/2023/02/15/in-depth-collectible-craze/#:~:text=by%20Anika%20Talyan
   * Also used class lectures and notes
 
 * Instructions to run: Download the zip file (Collection_Final_App.zip), open up the project in Xcode and then build the app and run in simulator
+
+* Download & Watch our Video: https://drive.google.com/file/d/13kuYzc0coFK1HvX8znEuA9otG-cX-9Mc/view?usp=drive_link 
