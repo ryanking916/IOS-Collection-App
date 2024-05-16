@@ -12,4 +12,4 @@
   * https://marquettemessenger.com/features/2023/02/15/in-depth-collectible-craze/#:~:text=by%20Anika%20Talyan
   * Also used class lectures and notes
 
-* Instructions to run: Build the app and run in simulator
+* Instructions to run: Download the zip file (Collection_Final_App.zip), open up the project in Xcode and then build the app and run in simulator
